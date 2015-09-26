@@ -1,5 +1,6 @@
 ##Programming the Serial Port using C#(CSharp) and Dot Net Framework
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-programming-dot-net-framework-csharp-tutorial.jpg"/>
+
 The code uses the SerialPort class from .Net Framework to open up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad).
 
 The code also shows how to control the **RTS and DTR pins of the serial Port**.
