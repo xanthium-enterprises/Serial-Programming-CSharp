@@ -9,7 +9,9 @@ Code an be compiled using **Microsoft Visual Studio** or **Opensource Sharpdevel
 
 The Full explanation of the<a href="http://xanthium.in/Serial-Programming-using-Csharp-on-Windows"> source code and Tutorial can be found here</a>.
 
-ScreenShots of the Program
+ScreenShot of the Program
+
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-Csharp/CSharp-serial-read-data-rxed.jpeg" />
+
 Program Receiving the data transmitted from MSP430 Microcontroller (Lauchpad board). 
   
