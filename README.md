@@ -1,6 +1,6 @@
-## Programming the Serial Port using C#(CSharp) and Dot Net Framework
+## Programming the Serial Port using C#(CSharp) on NET Core and  Dot Net Framework
 
-<img src="http://xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-programming-dot-net-framework-csharp-tutorial.jpg"/>
+![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-communication-net-core-dotnet-linux-windows.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,8 +19,8 @@
 ## Details
 
 - Code an be compiled using 
-    - **Microsoft Visual Studio** 
-    - **Opensource Sharpdevelop**.
+    - **Microsoft Visual Studio Community** 
+   
 
 - Code will work with traditional serial ports as well USB Serial Converters. 
 
@@ -28,9 +28,11 @@
 
 ## ScreenShot of the Program
 
-<img src="http://xanthium.in/sites/default/files/site-images/serial-prog-Csharp/CSharp-serial-read-data-rxed.jpeg" />
+ - ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/reading-serial-port-csharp-dotnet-core.jpg)
+ - Program Receiving the data transmitted from ATmega328P Microcontroller (Lauchpad board). 
 
-Program Receiving the data transmitted from MSP430 Microcontroller (Lauchpad board). 
+ - ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-port-program-tutorial-net-core-framework.jpg)
+ - Code running on NET Core 3.1
 
 ## Devices used
 
