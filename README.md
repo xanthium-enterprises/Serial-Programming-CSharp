@@ -20,7 +20,7 @@
 
 ## Details
 
-- Code an be compiled using 
+- Code can be compiled using 
     - **Microsoft Visual Studio Community** 
    
 
