@@ -4,14 +4,16 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- The code uses the SerialPort class from .Net Framework to open up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad).
+- The code uses the SerialPort class from .Net Framework/NET Core 3.1
+- Code opens up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad/ATmega328P).
+- Code transmits and receives between PC and Micro Conntroller
 - The code also shows how to control the **RTS and DTR pins of the serial Port**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Online Tutorial
 
-[Serial Programming tutorial using C sharp (C#)on Windows](https://www.xanthium.in/Serial-Programming-using-Csharp-on-Windows)
+ - [Serial Programming tutorial using C sharp (C#) on Windows](https://www.xanthium.in/Serial-Programming-using-Csharp-on-Windows)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
