@@ -13,7 +13,7 @@
 
 ## Online Tutorial
 
- - [Serial Programming tutorial using C sharp (C#) on Windows](https://www.xanthium.in/Serial-Programming-using-Csharp-on-Windows)
+ - [Serial Programming tutorial using C sharp (C#) on Windows using .NET Platform](https://www.xanthium.in/serial-port-communication-programming-arduino-raspberry-pi-using-csharp-on-windows)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
