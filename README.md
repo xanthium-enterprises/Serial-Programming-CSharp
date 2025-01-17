@@ -22,8 +22,10 @@
 
 - ![](https://www.xanthium.in/sites/default/files/inline-images/serial-port-communication-arduino-pc-csharp-dotnet.jpg)
 
+- ![](https://www.xanthium.in/sites/default/files/inline-images/connect-atmega328p-micro-pc-using-csharp.jpg)
 
-## Details
+
+## Details about Repo
 
 - Code can be compiled using 
     - **Microsoft Visual Studio Community** 
