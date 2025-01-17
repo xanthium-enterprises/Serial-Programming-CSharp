@@ -1,12 +1,12 @@
-## Programming the Serial Port using C#(CSharp) on NET Core and  Dot Net Framework
+## Programming the Serial Port using C# (CSharp) on .NET PlatForm 
 
 ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-communication-net-core-dotnet-linux-windows.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- The code uses the SerialPort class from .Net Framework/NET Core 3.1
-- Code opens up a Serial port on Windows PC for communiating with a Microcontroller board (MSP430 Launchpad/ATmega328P).
-- Code transmits and receives between PC and Micro Conntroller
+- The code uses the SerialPort class from System.Io.Ports namespace
+- C# Code opens up a Serial port on Windows PC for communiating with an Arduino or Microcontroller board (MSP430 Launchpad/ATmega328P).
+- C# Code transmits and receives data between PC and Arduino Micro Conntroller
 - The code also shows how to control the **RTS and DTR pins of the serial Port**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +17,11 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Hardware Circuit
+
+- ![](https://www.xanthium.in/sites/default/files/inline-images/serial-port-communication-arduino-pc-csharp-dotnet.jpg)
+
 
 ## Details
 
@@ -30,16 +35,11 @@
 
 ## ScreenShot of the Program
 
- - ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/reading-serial-port-csharp-dotnet-core.jpg)
- - Program Receiving the data transmitted from ATmega328P Microcontroller (Lauchpad board). 
-
- - ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-port-program-tutorial-net-core-framework.jpg)
- - Code running on NET Core 3.1
 
 ## Devices used
 
-- [USB to Serial / RS485 Converter](https://www.xanthium.in/ft232-based-usb-to-serial-rs485-converter-industrial-scientific-applications)
+- [USB to Serial/RS232/RS485 Converter](https://www.xanthium.in/USB-to-Serial-RS232-RS485-Converter)
 
-- ![](https://www.xanthium.in/sites/default/files/site-images/usb2rs485-v2-2-product-page/ft232-usb-rs485-converter-v2-2-610px.png)
+- ![](https://www.xanthium.in/sites/default/files/inline-images/USB-to-serial-rs232-rs485-converter-parts_2_2.jpg)
 
   
