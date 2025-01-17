@@ -4,9 +4,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- The code uses the SerialPort class from System.Io.Ports namespace
-- C# Code opens up a Serial port on Windows PC for communiating with an Arduino or Microcontroller board (MSP430 Launchpad/ATmega328P).
-- C# Code transmits and receives data between PC and Arduino Micro Conntroller
+- The code uses the SerialPort class from System.IO.Ports namespace for communicating with external serial devices
+- C# Code opens up a Serial port on Windows PC for communicating with an Arduino or Microcontroller board (MSP430 Launchpad/ATmega328P).
+- C# Code transmits and receives data between PC and Arduino Micro Controller
 - The code also shows how to control the **RTS and DTR pins of the serial Port**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
