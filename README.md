@@ -38,9 +38,12 @@
 ## ScreenShot of the Program
 
 - ![](https://github.com/xanthium-enterprises/Serial-Programming-CSharp/blob/master/_4_Screenshots/CSharp-serial-read-data-rxed.jpeg)
+
 - ![](https://github.com/xanthium-enterprises/Serial-Programming-CSharp/blob/master/_4_Screenshots/reading-serial-port-csharp-dotnet-core.jpg)
+
 - ![](https://github.com/xanthium-enterprises/Serial-Programming-CSharp/blob/master/_4_Screenshots/serial-port-write.jpg)
-- ![](https://github.com/xanthium-enterprises/Serial-Programming-CSharp/blob/master/_4_Screenshots/controlling-rts-dtr-lines.jpeg
+
+- ![](https://github.com/xanthium-enterprises/Serial-Programming-CSharp/blob/master/_4_Screenshots/controlling-rts-dtr-lines.jpeg)
 
 
 ## Devices used
