@@ -2,21 +2,21 @@
 
 ![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-communication-net-core-dotnet-linux-windows.jpg)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 - The code uses the SerialPort class from System.IO.Ports namespace for communicating with external serial devices
 - C# Code opens up a Serial port on Windows PC for communicating with an Arduino or Microcontroller board (MSP430 Launchpad/ATmega328P).
 - C# Code transmits and receives data between PC and Arduino Micro Controller
-- The code also shows how to control the **RTS and DTR pins of the serial Port**
+- The code also shows how to control the ** RTS and DTR pins of the serial Port **
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Online Tutorial
 
  - [Serial Programming tutorial using C sharp (C#) on Windows using .NET Platform](https://www.xanthium.in/serial-port-communication-programming-arduino-raspberry-pi-using-csharp-on-windows)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Hardware Circuit
 
@@ -33,7 +33,7 @@
 
 - Code will work with traditional serial ports as well USB Serial Converters. 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ScreenShot of the Program
 
