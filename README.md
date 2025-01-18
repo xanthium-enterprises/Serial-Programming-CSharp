@@ -1,6 +1,6 @@
 ## Programming the Serial Port using C# (CSharp) on .NET PlatForm 
 
-![](https://www.xanthium.in/sites/default/files/site-images/serial-prog-Csharp/serial-communication-net-core-dotnet-linux-windows.jpg)
+![](https://www.xanthium.in/sites/default/files/inline-images/serial-port-programming-tutorial-absolute-beginner.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
