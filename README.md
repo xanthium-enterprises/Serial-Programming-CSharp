@@ -15,6 +15,8 @@
 
  - [Serial Programming tutorial using C sharp (C#) on Windows using .NET Platform](https://www.xanthium.in/serial-port-communication-programming-arduino-raspberry-pi-using-csharp-on-windows)
 
+ - [.NET Serial Port Programming on Linux using C# (Csharp)](https://www.xanthium.in/dotnet-serial-communication-arduino-linux-pc-serialport-csharp)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
